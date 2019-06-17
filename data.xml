@@ -3,7 +3,7 @@
   <title>The Fifth Waffle</title>
   <based-in>The United States of America</based-in>
   <founding-date>November 11, 2016</founding-date>
-  <website>https://thefifthwaffle.gihub.io</website>
+  <website>https://thefifthwaffle.github.io</website>
   <press-contact>
     <!-- Mail address -->
   </press-contact>
@@ -26,9 +26,11 @@
 
   <socials>
     <social>
-      <name></name>
+      <name>
+   https://twitter.com/WaffleFifth
+	 </name>
       <link>
-        <!-- URL starting with http or https -->
+        https://twitter.com/WaffleFifth
       </link>
     </social>
   </socials>
@@ -36,11 +38,13 @@
   <press-contact>thefifthwaffle@gmail.com</press-contact>
 
   <description>
-  The Fifth Waffle is a small, indie game company created by three brothers who have a passion for game making and game playing. The team officially started working together on games during a local hackathon in 2016 where they took second place overall out of 56 teams for their game. Following this success, the team took GDC – Best in Game at the hackathon in 2017, 13th overall in the GM48 international Game Jam, and 1st place at a local Game Jam. 
+  The Fifth Waffle is a small, indie game company created by three brothers who have a passion for game making and game playing. Inspired by multiplayer and indie titles, The Fifth Waffle aspires to create fun and lasting experiences that are easy to learn but difficult to master.
   </description>
 
   <!-- Choose between a single block: -->
-  <history></history>
+  <history>
+  The Fifth Waffle Team officially started working together on games during a local hackathon in 2016 where they took second place overall out of 56 teams for their game. Following this success, the team took GDC ï¿½ Best in Game at the hackathon in 2017, 13th overall in the GM48 international Game Jam, and 1st place at a local Game Jam. 
+  </history>
 
   <!-- Or multiple blocks: -->
   <!--
