@@ -325,6 +325,7 @@
 
     The <link> tag is optional.
   -->
+  <!-->
   <abouts>
     <about>
       <title>Pixelnest Studio</title>
@@ -336,6 +337,7 @@
       <description>This is a fake company to illustrate the fact that you can have multiple about tags in your product page.</description>
     </about>
   </abouts>
+  -->
 
   <!-- ## Team & Contacts -->
 
@@ -351,11 +353,11 @@
   <credits>
     <credit>
       <person>Lil' Chuck</person>
-      <website>link to bandcamp</website>
       <role>Programmer, Artist, Composer</role>
     </credit>
     <credit>
       <person>Audiate</person>
+      <website>link to bandcamp</website>
       <role>Composer, Artist</role>
     </credit>
     <credit>
