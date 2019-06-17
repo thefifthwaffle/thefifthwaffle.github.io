@@ -127,7 +127,7 @@
   <!-- Describe your product here. Be brief. -->
   <description>
     GunFu Heroes is a quick-paced, multiplayer shoot 'em up where your goal is to be the last of your friends standing. Drawing on favorite games of the genre, GunFu Heroes not only requires fast reflexes, but also tactical strategy and improvisation to beat your opponent. Players will have access to a variety of weapons which each dictate a different style of play. Players will start each round with only a pistol and a sword. By destroying chests or defeating opponents, players can exchange their pistol for different weapons. While the guns provide a tactical long-range option, the sword allows for a good close-range countermeasure. Using the sword not only allows you to quickly dispatch enemies, but also to reflect incoming projectiles back at the sender. If used correctly, a player at a disadvantage could gain the upper hand by a perfectly-timed reflect. 
-    
+
     No matter your style of play, whether casual or competitive, GunFu Heroes offers something for everyone. The simple yet difficult to master style of combat allows for an endless variety of game play.
   </description>
 
@@ -144,7 +144,7 @@
     You can see an example of the `<histories>` block in the company page.
   -->
   <history>
-    Add some storytelling here. Not the scenario of your game, but rather some backgrounds behind the creation process: why are you making this game? Most projects starts with a cool story.
+    After winning several awards from local game jams, the team of three brothers decided to create The Fifth Waffle and start work on their first official game: GunFu Heroes. The concept behind the game was simple, it was a four-player competitive game with easy to learn controls but difficult to master combat. The gameplay and artstyle of the game took inspiration from the games that the three co-founders enjoyed playing growing up.
   </history>
 
   <!-- ## Features -->
@@ -156,22 +156,22 @@
   -->
   <features>
     <feature>
-      List some "Key Sellings Points" to grab player's attention.
+      Dazzling variety of unlockable skins, weapons, and arenas
     </feature>
     <feature>
-      Don't be too generic ("pixel art graphics!"), don't be too pretentious ("most incredible game experience!").
+      Nostalgic and colorful pixel art to make characters bounce off the screen
     </feature>
     <feature>
-      Also, people like numbers, so you can add some (450 weapons, hundreds of levels, dozens of hours of playtime!).
+      Wide variety of weapons with each dictating a new and exciting style of gameplay
     </feature>
     <feature>
-      Need ideas? Maybe explain some game modes?
+      Interactive level design to keep matches fast-paced and exciting every time
     </feature>
     <feature>
-      It would be a nice place to say something about multiplayer, if you have some.
+      Challenge opponents in local multiplayer in free-for-all or team-based games
     </feature>
     <feature>
-      Have you translated your game? (You probably should btw.)
+      Original 80's inspired soundtrack crafted just for your enjoyment
     </feature>
   </features>
 
@@ -192,9 +192,10 @@
   -->
   <trailers>
     <trailer>
-      <name>Release Trailer</name>
-      <youtube>EtXajayBLzw</youtube>
+      <name>GunFu Heroes Gameplay Trailer</name>
+      <youtube>GMb2J0FDTzQ</youtube>
     </trailer>
+    <!--
     <trailer>
       <name>Gameplay Video #2</name>
       <youtube>EPNK1j3TMjU</youtube>
@@ -207,6 +208,7 @@
       <name>Short gameplay preview: Burger vs Pizza</name>
       <download>https://github.com/pixelnest/presskit.html</download>
     </trailer>
+    -->
   </trailers>
 
   <!-- ## Widgets -->
@@ -223,12 +225,16 @@
     **Warning: widgets import many scripts and assets. This may have a penalty on your page size and responsiveness.**
   -->
   <widgets>
+  <!-->
     <appstore>950812012</appstore>
     <playstore>com.noodlecake.altosadventure</playstore>
+    -->
     <steam>347160</steam>
+    <!-->
     <humble>steredenn/7SDLfk23hw</humble>
     <itch>27992</itch>
     <bandcamp>1135613467</bandcamp>
+    -->
   </widgets>
 
   <!-- ## Awards, quotes & links -->
@@ -237,7 +243,7 @@
     You got awards for this product? Great! Put them here.
 
     **Optional.**
-  -->
+ 
   <awards>
     <award>
       <description>Game of the year without a doubt</description>
@@ -252,6 +258,7 @@
       <info>Deep into the woods (Forest), 31 March, 2014</info>
     </award>
   </awards>
+   -->
 
   <!--
     Quotes are used to show the appreciation of your users.
@@ -292,14 +299,14 @@
   -->
   <additionals>
     <additional>
-      <title>Original Soundtrack (OST)</title>
-      <description>Composed by an awesome musician. Listen for free, download for $3 at</description>
+      <title>GunFu Heroes (OST)</title>
+      <description>Composed by Audiate. Listen for free, download for $2.99 at</description>
       <link>http://zandernoriega.bandcamp.com/album/steredenn-original-soundtrack</link>
     </additional>
     <additional>
-      <title>Release announcement</title>
-      <description>Announcement are exciting, so we usually make blog posts or news about it on</description>
-      <link>http://pixelnest.io/journal/</link>
+      <title>Want to Stay Updated?</title>
+      <description>To keep track of all the latest news about GunFu Heroes, visit us at</description>
+      <link>https://twitter.com/WaffleFifth</link>
     </additional>
   </additionals>
 
@@ -343,17 +350,17 @@
   -->
   <credits>
     <credit>
-      <person>Krokmou</person>
-      <role>Bot Leader, Game Designer, Pixelnest Studio</role>
+      <person>Lil' Chuck</person>
+      <website>link to bandcamp</website>
+      <role>Programmer, Artist, Composer</role>
     </credit>
     <credit>
-      <person>Hiccup</person>
-      <role>Developer, Pixelnest Studio</role>
+      <person>Audiate</person>
+      <role>Composer, Artist</role>
     </credit>
     <credit>
-      <person>Astrid</person>
-      <website>http://www.astridsupergame.com</website>
-      <role>Musician, Freelancer</role>
+      <person>Alpine</person>
+      <role>Programmer, Weapon Design, Debugger</role>
     </credit>
   </credits>
 
@@ -367,24 +374,26 @@
   <contacts>
     <contact>
       <name>Inquiries</name>
-      <mail>mysupergame@pizzaburger.studio</mail>
+      <mail>thefifthwaffle@gmail.com</mail>
     </contact>
     <contact>
       <name>Twitter</name>
       <link>
-        https://twitter.com/pizzaburgerstudio
+        https://twitter.com/WaffleFifth
       </link>
     </contact>
+    <!-->
     <contact>
       <name>Facebook</name>
       <link>
         https://facebook.com/pizzaburgerstudio
       </link>
     </contact>
+    -->
     <contact>
       <name>Web</name>
       <link>
-        http://mysupergame.pizzaburger.studio/
+        https://thefifthwaffle.github.io
       </link>
     </contact>
   </contacts>

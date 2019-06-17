@@ -56,25 +56,21 @@
 
   <awards>
     <award>
-      <description></description>
-      <info></info>
+      <description>
+      GM48 27th International Game Jam
+      </description>
+      <info>
+      13th place out of 189 Teams
+      </info>
     </award>
   </awards>
 
   <quotes>
     <quote>
-      <description>
-      13th place out of 189 Teams
-      </description>
-      <name>
-      GM48 27th International Game Jam
-      </name>
-      <website>
-      https://gm48.net/
-      </website>
-      <link>
-      https://gm48.net/game/1013/dark-lair
-      </link>
+      <description></description>
+      <name></name>
+      <website></website>
+      <link></link>
     </quote>
   </quotes>
 
@@ -97,19 +93,19 @@
       Programmer, Artist, Composer
       </role>
 
-      <person>
+      <person2>
       Audiate
-      </person>
-      <role>
+      </person2>
+      <role2>
       Composer, Artist
-      </role>
+      </role2>
 
-      <person>
+      <person3>
       Alpine
-      </person>
-      <role>
+      </person3>
+      <role3>
       Programmer, Weapon Design, Debugger
-      </role>
+      </role3>
 
       <!-- Optional:
       <website></website>
