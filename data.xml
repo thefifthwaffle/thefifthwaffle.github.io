@@ -11,19 +11,6 @@
   <!-- Google analytics ID: -->
   <analytics></analytics>
 
-  <phone></phone>
-  <address>
-    <line>
-      <!-- Street -->
-    </line>
-    <line>
-      <!-- City -->
-    </line>
-    <line>
-      <!-- Country -->
-    </line>
-  </address>
-
   <socials>
     <social>
       <name>
@@ -43,7 +30,7 @@
 
   <!-- Choose between a single block: -->
   <history>
-  The Fifth Waffle Team officially started working together on games during a local hackathon in 2016 where they took second place overall out of 56 teams for their game. Following this success, the team took GDC � Best in Game at the hackathon in 2017, 13th overall in the GM48 international Game Jam, and 1st place at a local Game Jam. 
+  The Fifth Waffle Team officially started working together on games during a local hackathon in 2016 where they took second place overall out of 56 teams for their game. Following this success, the team took GDC - Best in Game at the hackathon in 2017, 13th overall in the GM48 international Game Jam, and 1st place at a local Game Jam. 
   </history>
 
   <!-- Or multiple blocks: -->
@@ -76,13 +63,22 @@
 
   <quotes>
     <quote>
-      <description></description>
-      <name></name>
-      <website></website>
-      <link></link>
+      <description>
+      13th place out of 189 Teams
+      </description>
+      <name>
+      GM48 27th International Game Jam
+      </name>
+      <website>
+      https://gm48.net/
+      </website>
+      <link>
+      https://gm48.net/game/1013/dark-lair
+      </link>
     </quote>
   </quotes>
 
+  <!--
   <additionals>
     <additional>
       <title></title>
@@ -90,24 +86,48 @@
       <link></link>
     </additional>
   </additionals>
+   -->
 
   <credits>
     <credit>
-      <person></person>
-      <role></role>
+      <person>
+      Lil' Chuck
+      </person>
+      <role>
+      Programmer, Artist, Composer
+      </role>
 
-      <!-- Optional: -->
+      <person>
+      Audiate
+      </person>
+      <role>
+      Composer, Artist
+      </role>
+
+      <person>
+      Alpine
+      </person>
+      <role>
+      Programmer, Weapon Design, Debugger
+      </role>
+
+      <!-- Optional:
       <website></website>
+       -->
     </credit>
   </credits>
 
   <contacts>
     <contact>
-      <name></name>
+      <name>
+      Lil' Chuck
+      </name>
 
       <!-- Pick one: -->
       <mail></mail>
-      <link></link>
+      <link>
+      thefifthwaffle@gmail.com
+      </link>
     </contact>
   </contacts>
 </company>
