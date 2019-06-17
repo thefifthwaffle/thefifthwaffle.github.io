@@ -30,19 +30,19 @@
   <!-- ## General Information -->
 
   <!-- Begin with your product name, website, and miscellaneous information. -->
-  <title>My Super Game</title>
-  <website>http://pizzaburger.studio/mysupergame</website>
+  <title>GunFu Heroes</title>
+  <website></website>
 
   <!-- You can also add an URL to a request page for this product. A button will be displayed on the page. -->
   <press-copy-request>
-    http://pizzaburger.studio/mysupergame/request/
+    https://thefifthwaffle.github.io
   </press-copy-request>
 
   <!--
     If you have one or many publishers for this product, you can add them here.
 
     The `<based-in>` and `<website>` tags are optional.
-  -->
+  
   <partners>
     <partner>
       <type>Publisher</type>
@@ -55,11 +55,11 @@
       <title>Pizza Oven LLC</title>
     </partner>
   </partners>
+  -->
 
   <!-- Add as many dates, platforms and prices as needed. -->
   <release-dates>
-    <release-date>04 Feb, 2016</release-date>
-    <release-date>10 Oct, 2016</release-date>
+    <release-date>July 22, 2019</release-date>
   </release-dates>
 
   <!--
@@ -69,15 +69,8 @@
   -->
   <platforms>
     <platform>
-      <name>PC / Mac</name>
-      <link>http://itch.io/</link>
-    </platform>
-    <platform>
       <name>Steam</name>
       <link>http://steampowered.com/</link>
-    </platform>
-    <platform>
-      <name>Inc New Store (TBA)</name>
     </platform>
   </platforms>
 
@@ -85,19 +78,11 @@
   <prices>
     <price>
       <currency>EUR</currency>
-      <value>20</value>
+      <value>€4.45</value>
     </price>
     <price>
       <currency>USD</currency>
-      <value>20</value>
-    </price>
-    <price>
-      <currency>GBP</currency>
-      <value>16</value>
-    </price>
-    <price>
-      <currency>JPY</currency>
-      <value>2300</value>
+      <value>$4.99</value>
     </price>
   </prices>
 
@@ -129,18 +114,21 @@
 
     **Warning**: you need to rebuild the presskit to see the changes.
   -->
+  <!-->
   <relations>
     <relation>
       <type>DLC</type>
       <product>My Super Game: Ultimate Edition</product>
     </relation>
   </relations>
-
+-->
   <!-- ## Description & History -->
 
   <!-- Describe your product here. Be brief. -->
   <description>
-    Here goes a quick description of your product or game. Be concise and explain in very few words the concept or the gameplay and why it's really cool and why everyone should use or play it.
+    GunFu Heroes is a quick-paced, multiplayer shoot 'em up where your goal is to be the last of your friends standing. Drawing on favorite games of the genre, GunFu Heroes not only requires fast reflexes, but also tactical strategy and improvisation to beat your opponent. Players will have access to a variety of weapons which each dictate a different style of play. Players will start each round with only a pistol and a sword. By destroying chests or defeating opponents, players can exchange their pistol for different weapons. While the guns provide a tactical long-range option, the sword allows for a good close-range countermeasure. Using the sword not only allows you to quickly dispatch enemies, but also to reflect incoming projectiles back at the sender. If used correctly, a player at a disadvantage could gain the upper hand by a perfectly-timed reflect. 
+    
+    No matter your style of play, whether casual or competitive, GunFu Heroes offers something for everyone. The simple yet difficult to master style of combat allows for an endless variety of game play.
   </description>
 
   <!--
