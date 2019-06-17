@@ -33,7 +33,7 @@
     </social>
   </socials>
 
-  <press-contact>thefifthwaffle@gmai.com</press-contact>
+  <press-contact>thefifthwaffle@gmail.com</press-contact>
 
   <description>
   The Fifth Waffle is a small, indie game company created by three brothers who have a passion for game making and game playing. The team officially started working together on games during a local hackathon in 2016 where they took second place overall out of 56 teams for their game. Following this success, the team took GDC – Best in Game at the hackathon in 2017, 13th overall in the GM48 international Game Jam, and 1st place at a local Game Jam. 
@@ -54,15 +54,12 @@
 
   <trailers>
     <trailer>
-      <name></name>
+      <name>GunFu Heroes Gameplay Trailer</name>
 
       <!-- Pick one: -->
       <youtube>
-        <!-- Video ID only, not the full URL -->
+        GMb2J0FDTzQ
       </youtube>
-      <vimeo>
-        <!-- Video ID only, not the full URL -->
-      </vimeo>
     </trailer>
   </trailers>
 
