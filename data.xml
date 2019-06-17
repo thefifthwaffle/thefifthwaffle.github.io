@@ -4,9 +4,6 @@
   <based-in>The United States of America</based-in>
   <founding-date>November 11, 2016</founding-date>
   <website>https://thefifthwaffle.github.io</website>
-  <press-contact>
-    <!-- Mail address -->
-  </press-contact>
 
   <!-- Google analytics ID: -->
   <analytics></analytics>
@@ -86,30 +83,17 @@
 
   <credits>
     <credit>
-      <person>
-      Lil' Chuck
-      </person>
-      <role>
-      Programmer, Artist, Composer
-      </role>
-
-      <person2>
-      Audiate
-      </person2>
-      <role2>
-      Composer, Artist
-      </role2>
-
-      <person3>
-      Alpine
-      </person3>
-      <role3>
-      Programmer, Weapon Design, Debugger
-      </role3>
-
-      <!-- Optional:
-      <website></website>
-       -->
+      <person>Lil' Chuck</person>
+      <role>Programmer, Artist, Composer</role>
+    </credit>
+    <credit>
+      <person>Audiate</person>
+      <website>link to bandcamp</website>
+      <role>Composer, Artist</role>
+    </credit>
+    <credit>
+      <person>Alpine</person>
+      <role>Programmer, Weapon Design, Debugger</role>
     </credit>
   </credits>
 
