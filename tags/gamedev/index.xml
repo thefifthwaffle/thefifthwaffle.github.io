@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>gamedev on TheFifthWaffle</title>
+    <link>https://thefifthwaffle.github.io/tags/gamedev/</link>
+    <description>Recent content in gamedev on TheFifthWaffle</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://thefifthwaffle.github.io/tags/gamedev/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Gunfu Heroes</title>
+      <link>https://thefifthwaffle.github.io/blog/rich_content/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://thefifthwaffle.github.io/blog/rich_content/</guid>
+      <description>Background In the year 21xx, the show GunFu Heroes&amp;rsquo; ratings have declined. In a desperate ploy to revitalize the show&amp;rsquo;s former glory, the show&amp;rsquo;s executives have started &amp;ldquo;recruiting&amp;rdquo; fighters from across both time and space. Prove your worth in the arena with an array of weapons and feed the corporate machine with the spoils of war.
+So what is it? GunFu Heroes is a quick-paced, local multiplayer party game where your goal is to be the last one standing.</description>
+    </item>
+    
+  </channel>
+</rss>
