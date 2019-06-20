@@ -11,12 +11,12 @@
     
     
     <item>
-      <title>Dracula</title>
-      <link>https://thefifthwaffle.github.io/sections/test/</link>
+      <title> </title>
+      <link>https://thefifthwaffle.github.io/sections/scroll/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://thefifthwaffle.github.io/sections/test/</guid>
-      <description>Dracula is an 1897 Gothic horror novel by Irish author Bram Stoker. It introduced the character of Count Dracula, and established many conventions of subsequent vampire fantasy.The novel tells the story of Dracula&amp;rsquo;s attempt to move from Transylvania to England so that he may find new blood and spread the undead curse, and of the battle between Dracula and a small group of men and a woman led by Professor Abraham Van Helsing.</description>
+      <guid>https://thefifthwaffle.github.io/sections/scroll/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -28,6 +28,24 @@
       <description>Written in Go, Hugo is an open source static site generator available under the Apache Licence 2.0. Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
 Hugo makes use of a variety of open source projects including:
  https://github.</description>
+    </item>
+    
+    <item>
+      <title>Presskit</title>
+      <link>https://thefifthwaffle.github.io/sections/presskit/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://thefifthwaffle.github.io/sections/presskit/</guid>
+      <description>You can find our Presskit right here by clicking on the link.</description>
+    </item>
+    
+    <item>
+      <title>Dracula</title>
+      <link>https://thefifthwaffle.github.io/sections/test/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://thefifthwaffle.github.io/sections/test/</guid>
+      <description>Dracula is an 1897 Gothic horror novel by Irish author Bram Stoker. It introduced the character of Count Dracula, and established many conventions of subsequent vampire fantasy.The novel tells the story of Dracula&amp;rsquo;s attempt to move from Transylvania to England so that he may find new blood and spread the undead curse, and of the battle between Dracula and a small group of men and a woman led by Professor Abraham Van Helsing.</description>
     </item>
     
   </channel>
